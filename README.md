@@ -11,8 +11,9 @@ Extension for Chrome/Edge browser to easily open a company's page on Screener.in
 
 ### Install
 
-1. Download as zip.
-2. Load as packed through browser.
+1. Download as [zip](https://codeload.github.com/losparviero/opensesame/zip/refs/heads/main).
+2. Unzip.
+3. Load as unpacked.
 
 ### Future
 
